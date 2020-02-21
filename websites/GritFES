@@ -1,0 +1,651 @@
+
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="pt-BR" xmlns:fb="http://ogp.me/ns/fb#" class="no-js oldie ie6 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="pt-BR" xmlns:fb="http://ogp.me/ns/fb#" class="no-js oldie ie7 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="pt-BR" xmlns:fb="http://ogp.me/ns/fb#" class="no-js oldie ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="pt-BR" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="pt-BR" xmlns:fb="http://ogp.me/ns/fb#" class="no-js" ><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<title>Grit Financial Education Services</title>
+<meta name="description" content="Recognizing the need for widespread financial education, GritFES offers a wide variety of Financial Tools to achieve Financial Independence." />
+<meta name="keywords" content="wfg, ers, aig, transamerica, life insurance, cash value life insurance, mfta, mec, retirement, familiy first life, ffl, investment, blossom, tax free, tax deferred, tax advantage, taxable, interest, cap, floor, buy term and invest the rest" />
+<meta name="author" content="www.GoWebDesign.us" />
+<meta name="robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+<!-- Meta Facebook -->
+<meta property="og:title" content="GoFinancialSD"/>
+<meta property="og:description" content="Go Financial San Diego"/>
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<!-- Style -->
+<link rel="stylesheet" href="css/default.css" media="screen" />
+<link rel="stylesheet" href="css/style.css" media="screen" />
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
+
+<!-- Respond JS -->
+<script src="js/respond.min.js"></script>
+
+<!-- Modernizr JS -->
+<script src="js/modernizr-2.5.3.min.js"></script>
+
+<!-- Flexslider JS -->
+<link rel="stylesheet" href="js/flexslider/flexslider.css" type="text/css" media="screen" />
+
+<!-- START CODE CYN CODES -->
+     <!--GOOGLE FONTS -->
+     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400' rel='stylesheet' type='text/css'>
+
+     <!-- INCLUDE THIS CSS -->
+     <link rel="stylesheet" href="style.css" type="text/css">  
+
+
+    <!-- INCLUDE THIS JAVASCRIPT -->
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="http://www.gobuildup.com/gofsd/vcard/form/form.js" type="text/javascript"></script>
+
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<!-- END CODE CYN CODES -->
+
+<style style="text/css">
+.marquee-outer {
+height: 200px;	
+ overflow: hidden;
+ position: relative;
+ color: orange;
+}
+.marquee-inner {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ line-height: 200px;
+ margin: 0;
+  text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-left 20s linear infinite;
+ -webkit-animation: scroll-left 20s linear infinite;
+ animation: scroll-left 20s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-400%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-400%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-400%); /* Browser bug fix */
+ -webkit-transform: translateX(-400%); /* Browser bug fix */
+ transform: translateX(-400%); 
+ }
+}
+</style>
+</head>
+
+<body class="pattern1 green home">
+<div id="all" class="center">
+	<div id="main" class="center">
+
+        <!-- BEGIN HEADER -->
+        <header id="header">
+            <div id="title">
+             <h1>Richard Go</h1>
+               <div id="subtitle">Financial Services Certified Professional&reg; - Student Scholar</div>
+            </div>
+            <div id="myphoto">
+                <figure><img src="73BA766E-F96D-45A3-A968-425FB8E0C31A.jpeg" alt="Grit Financial Education Services" width="150" height="150"></figure>
+
+
+            </div>
+            <nav id="nav-global">
+                <ul id="nav-global-ul">
+                    <li class="nav-global-li nav-home"><a href="#sec-home" title="ABOUT" class="nav-global-a">ABOUT</a></li>
+                    <li class="nav-global-li nav-resume"><a href="#sec-resume" title="TOOLS" class="nav-global-a">TOOLS</a></li>
+                    <li class="nav-global-li nav-portfolio"><a href="#sec-video" title="VIDEO" class="nav-global-a">VIDEO</a></li>
+                    <li class="nav-global-li nav-contact"><a href="#sec-contact" title="CONTACT" class="nav-global-a">CONTACT</a></li>
+                </ul>
+            </nav> 
+        </header>
+        <!-- END HEADER -->
+        <!-- BEGIN CONTENT -->
+    	<section id="content">
+
+           <!-- BEGIN ABOUT-->
+            <section id="sec-home">
+                <section id="all-resume">
+                    <div class="flexslider">
+                        <ul class="slides">
+    <li>
+                                      <h2>Help America Save Again</h2>
+                 <h4>#HASA</h4>
+                 <div class="clearfix">
+                    <table class="table fl" border="0" cellspacing="0" cellpadding="0">
+                      <tr><td><img src="make-america-save-again.jpg" width="300">
+                      </td></tr>
+                    </table>
+	      	    <table class="table fr" border="0" cellspacing="0" cellpadding="0">
+		     <tr></td>	
+		  	<h3>Are you a part of the solution or part of the problem?</h3>
+		  	<h4>The Three Legged Stool.</h4>
+		  	<figure><a class="show-portfolio-text" href="#3legs"><span></span><img src="my-3-legged-stool-colored.png"></a></figure>
+		  	<ul>
+				<li>Social Security - <small>According to SSA.GOV, on average will replace about 40% of your annual pre-retirement earnings.</small></li>
+				<li>Employer-Sponsored Pension - <small>Traditional or Roth.</small></li>
+				<li>Individual Savings and Investments - <small>Click on the stool for JR's Wealth Strategy.</li>
+		 	 </ul> 
+		     </td></tr>
+	            </table>
+                 </div>
+    </li>   
+    <li>
+                                      <h2>But What Is Grit?</h2>
+				      <p>From <a href="https://en.wikipedia.org/wiki/Grit_(personality_trait)" target="_blank" />Wikipedia</a> as (personality trait), "perseverance and passion for long-term goals."
+				      </p>
+                                      <h2>Our Goal</h2>
+				      <p>Is to empower each individual to be financially responsible for their future. Practical Financial Wisdom. Individual goals differ from person to person and our job is to identify those goals.
+				      </p>
+				      <p>
+				      </p>
+    </li>   
+     <li>
+                                      <h2>Who We Are</h2>
+				      <p>We are financial professionals whose belief is always what is the best interest of our clients. We will search for the right product before making our recommendations or revisions.</p>	
+     </li> 
+     <li>
+                                      <h2>Our Philosophy</h2>
+				      <p>We want to empower our clients using concepts of preservation of capital. We believe that this is one concept that will help secure their financial future.<p>
+
+<p>Warren Buffet Rules of money are:<br /> 
+#1 Don't lose money. <br />
+#2 Don't forget rule #1. 
+</p>	
+     </li> 
+    <li>
+                                      <h2>Our Process</h2>
+				      <p>Derived from one of the best known and credible financial school "The American College of Financial Services". (ChFC, FSCP, CLU, CFP, CLF, MSM, MSFS, PhD, etc.)
+                <ol>
+                          <li>Identifying prospects by using target marketing. We partnered with other financial institutions to get in front of people who needs our service. It is better to do business with prospects who are looking for our services.</li>
+                          <li>Only approaching prospects who successfully filled out some kind of form needing our services.</li>
+                          <li>Meeting prospects  by setting an appointment. We don't want to waste anybody's time. </li>
+                          <li>Gathering information and establishing goals by making sure that our recommendations will be -Comfortable -Affordable -Sustainable -Qualified We will gather information to look for funding sources. </li>
+                          <li>Analyze all information using the following attributes:<br/ >
+-Needs Analysis<br />
+-Financial Risk Tolerance<br />
+-Risk Management Strategies and Concepts<br />
+-Risk Exposure <br />
+-Investment Management Concepts <br />
+                          </li>
+                          <li>Developing and presenting the plan by finding and comparing the best use of illustrations. For most financial companies, this is a requirement before going on the application. We work with more than 20 financial companies and we will strategically find the best plan for you so you don't have to. We will prepare and show you the timelines for what is available as you reach certain age phases.       </li>
+                          <li>Implementing the plan by assisting you all the way. We will coordinate with other financial professional for other needed services that will complement the services you are getting from us. Some examples are: <br /> 
+-Accountants<br />
+-Attorneys<br />
+-Real Estate Advisors<br />
+-Stock Brokers<br />
+                          </li>
+                          <li> Servicing the plan by monitoring and evaluating the soundness of our recommendations. We will do this by Annual Review of your policies. This way, we can see the changes in our clients personal circumstances like:<br />
+-New births in the family. Add additional coverage. Show alternative savings plan like "The Millionaire Baby Plan"<br />
+-Deaths in the family. Change beneficiary or help in the process of getting the death benefit from the insurance companies. <br />
+-Illness. Show our clients their living benefits if apply.<br />
+-Divorce. Changing beneficiary to the right person.<br />
+-Change in Job Status. For flexible premiums, you can go up or down on your monthly's.
+<p>We also look out for changes with the following before making any recommendations or revisions:<p>
+-Tax laws<br />
+-Benefit and Pension Options<br />
+-Economic Environment<br />
+
+                          </li>
+ 
+				      </p>
+	
+     </li>      
+                 
+                        </ul>
+                    </div>
+                </section>
+            </section>
+            <!-- END ABOUT-->
+
+            <!-- BEGIN TOOLS-->
+            <section id="sec-resume">
+                <section id="all-resume">
+                    <div class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                      <h2>Bridge The Retirement Gap</h2>
+                                      <figure><a class="show-portfolio-text" href="#btg1"><span></span><img alt="BTG" src="btg1.png"></a></figure>
+                            </li>
+                            <li>
+                                      <h2>Financial Tools</h2><!-- Show all my calculators from excel, screen shot it and place it here for access to Rule of 72 webtools -->
+                                      <a href="http://www.gofinancialsd.com/calculator/sp500tae-tda-tea-775583rich" target="_blank" /><img src="types-of-ia.png" width="350">Click Here to compare your Investment Accounts (IA)</a> 
+                            </li>
+                            <li>
+                                      <h2>Did you know?</h2>
+				      <p>You can't excape taxes forever...</p>	
+                                      <p>	
+                                      <a href="http://www.bankrate.com/investing/convert-investment-account-to-retirement-account/" target="_blank" /><img src="you-cant-escape-taxes-4ever.jpg" width="350"></a>         </p>
+                                     <p>Consumers <a href="https://www.cnbc.com/2014/04/14/how-well-do-you-know-your-insurance-policy.html" target="_blank" />lack insurance literacy</a> by CNBC.                     
+                            </li>        
+                            <li>
+                                      <h2>SEMCAST</h2>
+				      <p><b>S</b>afe <b>E</b>quity <b>M</b>ortgage <b>CA</b>ncellation <b>ST</b>rategy</p>	
+                                      <figure><a class="show-portfolio-img" href="SEMCAST.png"><span></span><img alt="SEMCAST" src="SEMCAST.png" /></a></figure> <br />
+<br />
+Read <a href="http://www.investopedia.com/terms/h/harvest-strategy.asp" target="_blank" />here</a> for explanation of <b>Harvest Strategy</b> written by Investopedia.
+                            </li>       
+                            <li>
+                                      <h2>SAVE LESS IF YOU SAVE NOW</h2>
+<!-- stop for now 
+<div class="marquee-outer">
+<div class="marquee-inner">
+<table width="100%">
+<tr>
+<td><img src="gofsd-logo.png" width="128" alt="Go Financial San Diego" /></td>
+<td><img src="NAC.png" width="288" alt="North American Company" /></td>
+<td><img src="aig.png" width="246" alt="AIG American International Group" /></td>
+<td><img src="equitrust.png" width="412" alt="EquiTrust Life Insurance Company" /></td>
+<td><img src="gpm.png" width="187" alt="GPM Government Personnel Mutual Life Insurance" /></td>
+<td><img src="lifeshield.png" width="317" alt="LifeShield National Co." /></td>
+<td><img src="lsw2.png" width="126" alt="Life of the ASouthWest" /></td>
+<td><img src="minnesota.png" width="300" alt="Minnesota Life" /></td>
+<td><img src="mutual-of-omaha.png" width="263" alt="Mutual of Omaha" /></td>
+<td><img src="nlg.png" width="175" alt="National Life Group" /></td>
+<td><img src="nlg-pie.png" width="164" alt="National Life Group Pie" /></td>
+<td><img src="securian.png" width="225" alt="Securian Financial" /></td>
+<td><img src="transamerica.png" width="320" alt="Transamerica Premier Life" /></td>
+<td><img src="united-of-omaha.png" width="320" alt="United of Omaha" /></td>
+<td><img src="gofsd-logo.png" width="128" alt="Go Financial San Diego" /></td>
+<td><img src="NAC.png" width="288" alt="North American Company" /></td>
+</tr>
+</table>
+</div>
+</div>
+-->
+
+<marquee behavior="scroll" direction="left">
+<table width="100%">
+<tr>
+<td><img src="gofsd-logo.png" width="128" alt="Go Financial San Diego" /></td>
+<td><img src="NAC.png" width="128" alt="North American Company" /></td>
+<td><img src="aig.png" width="128" alt="AIG American International Group" /></td>
+<td><img src="equitrust.png" width="128" alt="EquiTrust Life Insurance Company" /></td>
+<td><img src="gpm.png" width="128" alt="GPM Government Personnel Mutual Life Insurance" /></td>
+<td><img src="lifeshield.png" width="128" alt="LifeShield National Co." /></td>
+<td><img src="lsw2.png" width="128" alt="Life of the ASouthWest" /></td>
+<td><img src="minnesota.png" width="128" alt="Minnesota Life" /></td>
+<td><img src="mutual-of-omaha.png" width="128" alt="Mutual of Omaha" /></td>
+<td><img src="nlg.png" width="128" alt="National Life Group" /></td>
+<td><img src="nlg-pie.png" width="128" alt="National Life Group Pie" /></td>
+<td><img src="securian.png" width="128" alt="Securian Financial" /></td>
+<td><img src="transamerica.png" width="128" alt="Transamerica Premier Life" /></td>
+<td><img src="united-of-omaha.png" width="128" alt="United of Omaha" /></td>
+</tr>
+</table>
+</marquee>
+
+					<br />
+					<p>The <b>EARLY</b> you SAVE, the LESS you will have to SAVE.
+					<br />VS.
+					<br />If you <b>WAIT</b> to save, the MORE you will have to SAVE.
+					</p>
+					<p>Use this Save Now or Save Later <a href="http://www.calcxml.com/calculators/savings-calculator-now?skn=119" target="_blank">calculator</a>, courtesy of Securian.
+					</p>
+                                        <p>CNBC have a good article about growing your wealth no matter what the economy is doing. Click <a href="https://www.cnbc.com/2014/04/21/take-charge-of-retirement-nowor-be-sorry-later.html" target="_blank" />here</a>.
+                                        </p>
+                            <li>
+                                      <h2>OUR SERVICES</h2>
+				      <p>Using the Financial Planning Pyramid concept.
+                                              <!-- INSERT FINANCIAL PYRAMID FROM FSCP HERE -->
+                                      </p>	
+                                      <ul>
+                                               <li>Tax Free Retirement Income <br />
+- using Variable Loans<br />
+- mostly used <a href="http://www.naic.org/research_moody.htm" target="_blank" />NAIC Recent Moody's Corporate Average Yields</a> 
+                                              </li>
+                                               <li>Lifetime Income <br />
+- Leverage your life insurance accumulated cash value for lifetime retirement tax free income<br />
+- Here's <a href="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/baldwin/2011/02/07/eighteen-ways-to-get-tax-free-income/&refURL=https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=15&cad=rja&uact=8&ved=0ahUKEwjitOSP_bPWAhXlx4MKHUqJAiEQFghwMA4&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbaldwin%2F2011%2F02%2F07%2Feighteen-ways-to-get-tax-free-income%2F&usg=AFQjCNFpcWEyRWX2T6KyIIY2v2CUryUs6A&referrer=https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=15&cad=rja&uact=8&ved=0ahUKEwjitOSP_bPWAhXlx4MKHUqJAiEQFghwMA4&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbaldwin%2F2011%2F02%2F07%2Feighteen-ways-to-get-tax-free-income%2F&usg=AFQjCNFpcWEyRWX2T6KyIIY2v2CUryUs6A" target="_blank" />8 ways to Get Tax-Free Income</a> by Forbes
+                                              </li>
+                                               <li>Financial Education - Education that you never had in school</li>
+                                               <li><a href="https://www.financialeducationservices.com/learn_more_uscore.aspx?rid=gobuildup" target="_blank" />Credit Education</a> - with FES</li>
+                                               <li>Risk Management - using life insurance</li>
+                                               <li>Life Insurance - 15+ carriers. We will use what's best for you</li>
+                                               <li>Annuities - 15+ carriers. We will use what's best for you</li>
+                                               <li>Indexed Universal Life - the power of <a href="http://www.thinkadvisor.com/2017/08/19/indexed-universal-life-its-just-a-great-investment?&slreturn=1506099195" target="_blank" />lifetime tax free income</a></li>
+                                               <li>Safe Equity Mortgage Cancellation Strategy Premium Financing<br />
+- For Homeowners <br />
+- Advance concept <br />
+- Not everybody qualifies<br />
+- Click <a href="http://www.investopedia.com/terms/h/harvest-strategy.asp" target="_blank" />here</a> to learn about Harvest Strategy from Investopedia.
+                                               </li>
+                                               <li>Risk Transfers - using life insurance</li>
+                                               <li>Accelerated Benefit Riders for Long-Term Care needs: <br />
+- Terminal Illness<br />
+- Chronic Illness<br />
+- Critical Illness  
+
+                                               </li>
+                                               <li>Living Benefits  - comes with different names:<br />
+- Accelerated Benefit Riders<br />
+- Accelerated Death Benefits<br />
+- Quality of Life
+                                               </li>
+                                               <li><a href="http://www.united-credit.org/" target="_blank" />Credit Repair</a>  - with UCES</li>
+                                               <li>Credit Attorney  - with FES Protection Plan</li>
+                                               <li>Proactive Identity Theft Protection - with <a href="https://www.financialeducationservices.com/learn_more_lifelock.aspx?rid=gobuildup" target="_blank" />Lifelock</a></li>
+                                               <li>Build or Re-Build Credit. Fast approval - with <a href="https://www.financialeducationservices.com/learn_more_securecard.aspx?rid=gobuildup" target="_blank" />First Progress Platinum MasterCard® Secured Credit Card</a> </li>
+                                               <li>Smart Credit Scores/Report Monitoring - with <a href="https://www.financialeducationservices.com/learn_more_smartcredit.aspx?rid=gobuildup" target="_blank" />Smart Credit</a></li>
+                                               <li>Affordable <a href="https://www.financialeducationservices.com/learn_more_mycare.aspx?rid=gobuildup" target="_blank" />Estate Plan</a> developed by lawyers: <br />
+- Last Will <br />
+- Living Trust <br />
+- Healthcare Power of Attorney <br />
+- Financial Power of Attorney  
+                                               </li>
+                                               <li>Debt Zero  - with FES Protection Plan</li>
+                                               <li>Mortgage Debt Elimination Calculation  - using MDEC</li>
+                                               <li>Financial Lockbox - with FES Protection Plan</li>
+                                               <li><a href="https://www.financialeducationservices.com/learn_more_uscore.aspx?rid=gobuildup" target="_blank" />Ultra Score</a>. Maximize your credit potential  - with <a href="https://www.financialeducationservices.com/learn_more_fespp.aspx?rid=gobuildup" target="_blank" />FES Protection Plan</a></li>
+                                               <li>Budgeting - with Go Financial San Diego</li>
+                                               <li>Kai-Zen Plan<br /> 
+- Used for High Executives that earns $100,000 or more per year <br />
+- Participants contributions are leverage 3:1.
+                                               </li>
+                                               <li>Legal Protection - through LegalShield</li>
+                                      </ul>
+ 
+                            </li> 
+
+
+
+     <li>
+<h2>FINANCIAL TOOLS</h2>
+
+             <ul>
+
+<li>ANNUALCREDITREPORT.COM </li>
+<li>COLLEGE PLANNING SEARCH
+<br /><a href="https://collegescorecard.ed.gov" target="_blank" />www.collegescorecard.ed.gov</a>
+<br /><a href="https://bigfuture.collegeboard.org/college-university-search/san-diego-state-university"  target="_blank" />www.bigfuture.collegeboard.org/college-university-search/san-diego-state-university</a>  </li>
+<li>HOW MUCH DO YOU NEED TO RETIRE - Roth, Bankrate 
+<br /><a href="http://www.bankrate.com/calculators/retirement/roth-ira-plan-calculator.aspx"  target="_blank" />www.bankrate.com/calculators/retirement/roth-ira-plan-calculator.aspx</a>
+<li>EFFECTS OF INFLATION
+<br /><a href="http://www.usinflationcalculator.com/inflation/current-inflation-rates" target="_blank" />usinflationcalculator.com/inflation/current-inflation-rates</a>
+<li>FINRA RETIREMENT CALCULATOR
+<br /><a href="http://apps.finra.org/calcs/1/retirement" target="_blank" />apps.finra.org/calcs/1/retirement</a>
+<li>MORTGAGE RATES
+<br /><a href="http://www.bankrate.com/mortgage.aspx?type=refinance&market=30&propertyvalue=375000&loan=300000&perc=20&prods=215,393,216,392&fico=740&points=Zero&cs=0" target="_blank" />bankrate.com/mortgage.aspx</a>
+<li>MUTUAL FUND FEES CALCULATOR
+<br /><a href="https://www.marketwatch.com/tools/mutual-fund/compare" target="_blank" />marketwatch.com/tools/mutual-fund/compare</a>
+<li>NAIC Recent Moody's Corporate Average Yields
+<br /><a href="http://www.naic.org/research_moody.htm" target="_blank" />naic.org/research_moody.htm</a>
+<li>RETIREMENT INCOME LITERACY SURVEY
+<br /><a href="https://retirement.theamericancollege.edu/research/2017-ricp-retirement-income-literacy-survey" target="_blank" />retirement.theamericancollege.edu</a>
+<li>SPEND DOWN CALCULATOR / ANNUITY
+<br /><a href="http://www.bankrate.com/calculators/investing/annuity-calculator.aspx" target="_blank" />bankrate.com/calculators/investing/annuity-calculator.aspx</a>
+<li>S&P 500 Historical return
+<br /><a href="http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html" target="_blank" />pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html</a>
+
+            </ul>
+     </li>
+
+
+
+
+
+
+
+
+
+
+                            </li>              
+                        </ul>
+                    </div>
+                </section>
+            </section>
+
+	<!-- BEGIN PORTFOLIO DETAIL -->
+	<div style="display: none;">
+                <!-- BEGIN PORTFOLIO TEXT DETAIL -->
+                <div id="btg1" class="portfoliodetail">
+                    <div class="fl">
+                         <section class="portfoliodetail-img">
+                            <div class="flexslider-detail">
+                                <ul class="slides portfolio-slide">
+                                    <li><figure><img src="btg2.png" alt="Bridge The Retirement Gap" /></figure></li>
+                                    <li><figure><img src="btg3.png" alt="Bridge The Retirement Gap" /></figure></li>
+                                    <li><figure><img src="btg4.png" alt="Bridge The Retirement Gap" /></figure></li>
+                                </ul>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="fr">
+                        <section id="portfoliodetail-text">
+                            <h3>Bridging The Retirement Gap</h3>
+                            <p>You have much to consider in your retirement planning.</p>
+                            <ul>
+                                <li>Rising Inflation</li>
+                                <li>Extended Life Expectancy</li>
+                                <li>Increasing Healthcare Cost</li>
+                                <li>Uncertainty of Social Security Income</li>
+                            </ul>
+                            <p>To help reduce any uncertainty in your plans, it's a good idea to explore the difference in your projected retirement income and your retirement expenses. This difference represents the gap you may have in your retirement plans.</p>
+                        </section>
+                    </div>
+                </div>
+                <!-- END PORTFOLIO TEXT DETAIL -->
+        </div>
+        <!-- END PORTFOLIO DETAIL -->
+
+            <!-- END ABOUT -->
+
+            <!-- BEGIN VIDEO-->
+            <section id="sec-video">
+                <section id="portfolio">
+                    <div class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                      <h2>Plan To Win Videos 1</h2>
+				      <figure><a class="show-portfolio-img" href="#port1"><span></span><img alt="GoFSD Plan To Win Videos" src="ptw-videos.png" width="350" /></a></figure>	
+                            </li>   
+                            <li>
+                                      <h2>Plan To Win Videos 2</h2>
+				      <figure><a class="show-portfolio-img" href="#port2"><span></span><img alt="GoFSD Plan To Win Videos" src="ptw-videos2.png" width="350" /></a></figure>	
+                            </li>   
+                            <li>
+                                      <h2>Plan To Win Videos 3</h2>
+				      <figure><a class="show-portfolio-img" href="#port3"><span></span><img alt="GoFSD Plan To Win Videos" src="ptw-videos2.png" width="350" />Click Here</a></figure>	
+                            </li>      
+                            <li>
+                                      <h2>The 401k Fallout</h2>
+				      <a href="http://www.youtube.com/embed/q8C1ZUrYhC0?rel=0&fs=1&showinfo=0" target="_blank" /><img alt="GoFSD The 401k Fallout" src="401k-fallout.png" width="350" />By 60 Minutes</a>	
+                            </li>                  
+                        </ul>
+                    </div>
+                </section>
+            </section>
+            <!-- END MONEY-->
+
+<!-- BEGIN PORTFOLIO DETAIL -->
+<div style="display: none;">
+
+<!-- BEGIN PORTFOLIO TEXT DETAIL -->
+	<!-- START PORT 1 -->
+                <div id="port1" class="portfoliodetail">
+                    <div class="fl">
+                         <section class="portfoliodetail-img">
+				<iframe width="249" height="196" src="http://www.youtube.com/embed/gjcLVEIqKWg?rel=0&fs=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </section>
+                    </div>
+                    <div class="fr">
+                        <section id="portfoliodetail-text">
+                            <h3>Plan To Win Videos 1</h3>
+                        </section>
+                    </div>
+                </div>
+	<!-- END PORT 1 -->
+	<!-- START PORT 2 -->
+                <div id="port2" class="portfoliodetail">
+                    <div class="fl">
+                         <section class="portfoliodetail-img">
+				<iframe width="249" height="196" src="http://www.youtube.com/embed/88uc3RVefms?rel=0&fs=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </section>
+                    </div>
+                    <div class="fr">
+                        <section id="portfoliodetail-text">
+                            <h3>Plan To Win Videos 2</h3>
+                        </section>
+                    </div>
+                </div>
+	<!-- END PORT 2 -->
+	<!-- START PORT 3 -->
+                <div id="port3" class="portfoliodetail">
+                    <div class="fl">
+                         <section class="portfoliodetail-img">
+				<iframe width="249" height="196" src="http://www.youtube.com/embed/z6ybEtJx-9s?rel=0&fs=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </section>
+                    </div>
+                    <div class="fr">
+                        <section id="portfoliodetail-text">
+                            <h3>Plan To Win Videos 3</h3>
+                        </section>
+                    </div>
+                </div>
+	<!-- END PORT 3 -->
+
+</div> <!-- div style="display: none; -->
+<!-- END PORTFOLIO DETAIL -->
+
+
+            <!-- BEGIN CONTACT -->
+            <section id="sec-contact">
+                <div class="fl">
+                    <section id="contact-info">
+
+			<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3064.6927129583764!2d-117.12401743657834!3d32.82371646947481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dbfe36a6237bb7%3A0x318c75d77f9c590b!2s4711+Viewridge+Ave%2C+San+Diego%2C+CA+92123!5e0!3m2!1sen!2sus!4v1522201924522" width="100%" height="160" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.7841144332892!2d-117.07642528480861!3d33.14103578086366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dbf359f1dfb093%3A0x9728df1c18f13f23!2s1126%20N%20Ash%20St%2C%20Escondido%2C%20CA%2092027!5e0!3m2!1sen!2sus!4v1582219964016!5m2!1sen!2sus" width="100%" height="160" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+                        <!-- Ommitted lines for spam protection. -->
+                        
+                            <span>Website:</span> <a href="http://www.gritfes.com" target="_blank">http://www.GritFES.com</a> or <a href="http://www.gofinancialsd.com" target="_blank">http://www.GoFinancialSD.com</a></p>
+                    </section>
+                </div>
+                <div class="fr">
+                    <section id="contact-me">
+
+                        <h2>Contact Me</h2>
+
+<!-- Put form here -->
+	<!--FORM STRUCTURE STARTS HERE-->
+	<div id="form">
+	<form id="easy" name="contact" method="post" action="http://www.gobuildup.com/gofsd/vcard/submit.php" onSubmit="return checkform()">
+		<!--ERROR/SUCCESS MESSAGE-->
+		<div id="error"></div>
+		<div id="success">Thank you, your email has been sent.</div>
+		<!--NAME INPUT-->
+		<div class="input">
+			<input type="text" name="name" id="name" class="text" placeholder="Name*" />
+		</div>
+		<!--EMAIL INPUT-->
+		<div class="input last">
+			<input type="text" name="email" class="text" id="email" placeholder="Email*" />
+		</div>
+		<!--COMPANY INPUT-->
+		<div class="input">
+			<input type="text" name="company" class="text" id="company" placeholder="Company Name" />
+		</div>
+		<!--PHONE INPUT-->
+		<div class="input last">
+			<input type="tel" name="phone" class="text last" id="phone" placeholder="Phone Number*" />
+		</div>
+		<!--MESSAGE INPUT-->
+		<div class="input textarea">
+     		      <textarea name="message" id="message" rows="3" cols="20" placeholder="Message*"></textarea>
+		</div>
+		<!--VERIFICATION AREA-->
+		<div class="verification">
+			<img id ="vimage" src="form/image.php" alt="Verification code" width="99" />
+				<a class="refresh" href="#" onclick="document.getElementById('vimage').src = 'form/image.php?' + Math.random(); return false">
+				<img src="form/refresh.png" alt="Anti Spam">
+				</a>
+			<!--VERIFICATION INPUT-->
+			<input type="text" name="verify" class="text" id="verify" placeholder="Enter the key" title="This confirms you are a human user and not a spam-bot." width="99"/>
+			<button type='submit' class="button" id='send_message' width="99">Submit</button>
+		</div>	
+	</form>
+	<div style="clear:both"></div>	
+	</div>
+	<!--FORM STRUCTURE ENDS HERE-->
+<br /><br />
+                    </section>
+                </div>
+            </section>
+            <!-- END CONTACT -->
+        </section>
+    <!-- END CONTENT -->	
+    <!-- BEGIN FOOTER -->
+          <footer id="footer">
+          <div>
+              <section id="download-vcard">
+                    <a href="#" title="Download vCard">Download vCard</a>
+                </section>
+                <section id="social">
+                    <ul>
+                        <li class="social-facebook"><a href="http://facebook.com/GoFinancialSD" title="Facebook" target="_blank">Facebook</a></li>
+                        <li class="social-linkedin"><a href="http://www.linkedin.com/in/richardgo1" title="Linkedin" target=_blank>Linkedin</a></li>
+                    </ul>
+                </section>
+            </div>
+            <section id="copyright">
+              © 2017 www.GoWebDesign.us
+            </section>
+        </footer>
+    <!-- END FOOTER -->
+    </div>
+</div>
+<!-- JS DEFAUL FOOTER -->
+
+    <!-- jQuery file -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+
+    <!-- Flexslider -->
+    <script src="js/flexslider/jquery.flexslider-min.js"></script>
+
+    <!-- Easytabs -->
+    <script src="js/jquery.hashchange.min.js"></script>
+    <script src="js/jquery.easytabs.min.js"></script>
+
+    <!-- jQuery validate -->
+    <script src="js/jquery.validate.min.js"></script>
+
+    <!-- Fancybox -->
+    <script type="text/javascript" src="js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+    <!-- Custom.JS file -->
+    <script src="js/custom.js"></script>
+
+<!-- END JS DEFAUL FOOTER -->
+</body>
+</html>
