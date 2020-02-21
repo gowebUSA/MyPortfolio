@@ -1,1 +1,1 @@
-Portfolio of websites created in the past.
+Portfolio of websites created in the past but currently maintaining.
