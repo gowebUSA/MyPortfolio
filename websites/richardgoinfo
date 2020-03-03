@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+ 
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<meta name="description" content="Richard Go Professional Resume"/>
+<meta name="keywords" content="Richard Go, Rich Go, USMC, Marine, ESPS, WFG, Life Insurance, webmaster, web development, marksmanship instructor, helicopter mechanic, bar tender, MSSA, SQL, C#, csharp, Azure, ASP.NET, Transamerica, World Financial Group, marksmanship coach, lean six sigma green belt, continuous process improvement"/> 
+<meta name="author" content="author"/> 
+<link rel="stylesheet" type="text/css" href="default.css"/>
+<title>Richard Go</title>
+</head>
+ 
+<body>
+ 
+<div class="main">
+ 
+	<div class="main_left">
+		
+		<div class="header">
+			<h1><a href="index.html">Richard Go, MSSA</a></h1>
+		</div>
+ 
+		<div class="link_menu">
+			<div class="active1"><a href="#" accesskey="1">Home</a></div>
+			<a href="schools.html" accesskey="2">Schools</a>
+			<a href="experience.html" accesskey="3">Experience</a>
+			<a href="gallery.html" accesskey="4">Gallery</a>
+		</div>
+ 
+		<div class="content">
+			
+			<h1>Summary</h1>
+			<div class="descr">Updated March 1, 2020</div>
+ 
+			<p>I have more than 11 years in Aviation Maintenance Management in the fields of program management, maintenance/production control, government procurement, human resource, training, continuous process improvement, website development, financial services, and sales. </p>
+
+			<p>My field of experience is diverse. I've worked with military enterprise systems along side with some of the Fortune 500 companies like Bell Helicopters, Boeing, and Rolls Royce and other foreign governmental agencies. Have an active Secret Clearance. 
+			</p>
+			<p>I transitioned to the IT field using a Microsoft Software and Systems Academy sponsored program specializing in Cloud Application Development. 
+			</p>
+			<p>I am passionate about being involved with projects from creation to successful implementation while continuing improvements in the process. 
+			</p>
+			<p>I am very excited to get a career where I can use my military aviation experience combine with computer programming skills and being involved in Lean Systems as project lead or program manager. 
+			</p>
+ 
+			<blockquote><p><a href="https://military.microsoft.com/programs/microsoft-software-systems-academy/" target="_blank" />Microsoft Software and Systems Academy</a></p></blockquote>
+ 
+			<!-- <h1>Gunnery Sergeant Go</h1>
+			<div class="descr">DOR November 1, 2011</div> -->
+ 
+ 			<img src="ErauGo.JPG" height="400" width="300" alt="Richard Go at Embry-Riddle Aeronautical University at the San Diego, CA campus" title="Richard Go @ ERAU SD">
+ 
+ 
+			<h1>Aviation Maintenance Control Manager</h1>
+			<div class="descr">Nov. 1, 2017 San Deigo, CA</div>
+ 
+<ul>
+			<li>Primary responsibilities include proper appropriation of air assets which sustained an 80% readily available aircraft to fly in any given requirements.</li>
+			<li>Developed and tested new maintenance management tool that improved 67%-time efficiency using Microsoft Excel Visual Basic formulas and Lean Six Sigma methods.</li>
+			<li>Prepared daily reports to the Chief Executive Officer that enhanced decision-making process to sustain the demanding requirements of a higher echelon.</li>
+</ul>
+ 
+		</div>
+ 
+	</div>
+ 
+	<div class="main_right">
+ 
+		<div class="link_projects">
+ 
+			<div class="lbl">Strong</div>
+			<span class="left">
+				<a href="#" class="g1" accesskey="c"><span>C#</span><br/> </a>
+			</span>
+			<span class="right">
+				<a href="#" class="g2" accesskey="p"><span>SQL</span><br/> </a>
+			</span>
+ 
+		</div>
+		
+		<div class="link_updates">
+ 
+			<div class="lbl">Highlights</div>
+			<a href="#"><span>1</span>ASP.NET<br/>-<br/>MSSA</a>
+			<a href="#"><span>2</span>Azure<br/>-<br/>MSSA</a>
+			<a href="#"><span>3</span>CSS<br/>-<br/>1997</a>
+			<a href="#"><span>4</span>HTML<br/>-<br/>1997</a>
+			<a href="#"><span>5</span>JSON<br/>-<br/>MSSA</a>
+			<a href="#"><span>6</span>PHP<br/>-<br/>2008</a>
+			<a href="#"><span>7</span>Javascript<br/>-<br/>MSSA</a>
+			<a href="#"><span>8</span>Webmaster<br/>-<br/>1.2011 - present</a>
+ 
+ 
+			<div class="clearer"><span></span></div>
+ 
+		</div>
+ 
+	</div>
+ 
+	<div class="footer">
+ 
+		<div class="left">&copy; <a href="http://www.gowebdesign.us">www.gowebdesign.us</a> 2011. Template design by <a href="#">Arcsin.se</a></div>
+ 
+		<div class="right">
+		     <a href="https://github.com/gowebUSA" target="_blank" />GitHub</a> 
+		     <a href="https://www.linkedin.com/in/richardgo1/" target="_blank" />LinkedIn</a>
+		     <!-- <a href="http://validator.w3.org/check?uri=referer">valid XHTML</a> -->
+		</div>
+ 
+	</div>
+ 
+</div>
+ 
+</body>
+ 
+</html>
+
