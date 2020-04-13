@@ -1,7 +1,7 @@
 # Aviation Maintenance Management
 
 ## White Maintenance Action Forms (W-MAF)
-This project is a contingency process used by aviation production controllers to easly manage workloads in Microsoft Excel. 
+This project is a contingency process used by aviation production controllers to easily manage workloads in Microsoft Excel. 
 
 ### Table Of Contents
 1. Workload (WL) tab
