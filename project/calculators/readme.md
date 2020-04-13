@@ -1,5 +1,5 @@
 # Financial Calculators
-These are calculaotors I made int he past.
+These are calculaotors I made in the past.
 
 ## Table Of Contents
 1. Retirement Calculator - FSCP
