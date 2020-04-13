@@ -1,5 +1,5 @@
 # Financial Calculators
-These are calculaotors I made in the past.
+These are calculaotors I made in the past using Microsoft Excel Spreadsheet.
 
 ## Table Of Contents
 1. Retirement Calculator - FSCP
