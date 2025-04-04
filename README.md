@@ -4,6 +4,7 @@
 <br />Or check out my project page at https://gowebusa.github.io/O-MAF or https://omaf.azurewebsites.net.
 2. [Richard Go Personal Page](https://github.com/gowebUSA/MyPortfolio/tree/master/websites/rgoInfo) 
    * Portfolio Gallery
+   * Or you can go to my newest personal page - [GoChannel.me](https://rgo.gochannel.me/) - uses WordPress
 3. [Managed Websites](https://github.com/gowebUSA/MyPortfolio/tree/master/websites)
 4. [Program Management](https://github.com/gowebUSA/MyPortfolio/tree/master/project/program-management)
    * Digital W-MAF
