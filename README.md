@@ -9,5 +9,7 @@
    * Digital W-MAF
 5. [Public Navy Website](https://www.public.navy.mil) - 2013 Publishing SharePoint
 6. [SURFPAC Navy Website](https://www.surfpac.navy.mil) - Through AFPIMS using Dot Net Nuke CMS
-7. [2019 SharePoint Navy Portal]() - Old portal. Migrated to FlankSpeed using ShareGate + Azure Virtual Desktop
-8. [FlankSpeed SharePoint]() - the Navy version of SharePoint Online M365
+    - [SNA 2022](https://www.surfpac.navy.mil/sna-2022/) - a simple outline that is ADA friendly, uses Fontawesome icons and class="list-group"
+    - [Ships](https://www.surfpac.navy.mil/Ships/) - an image using HTML image mapping  
+8. [2019 SharePoint Navy Portal]() - Old portal. Migrated to FlankSpeed using ShareGate + Azure Virtual Desktop
+9. [FlankSpeed SharePoint]() - the Navy version of SharePoint Online M365
