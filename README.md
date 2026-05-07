@@ -24,7 +24,7 @@
     - Power Automate
       <img width="1039" height="464" alt="image" src="https://github.com/user-attachments/assets/a403116b-8cfc-4dfa-94c3-5b79590a3f30" />
 12. [OKR]() - Power BI NECCPAC OKR for Commander's Readiness Report Dashboard
-    - Heavy use of JSON on SharePoint List
+    - Heavy use of JSON on SharePoint List (PnP List Formatting)
     - Power BI DAX
       * DAX
       * Power Query
