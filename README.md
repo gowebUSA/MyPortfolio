@@ -22,9 +22,9 @@
       * Power Query
       * Measures
       * Data Modeling
-    - <img width="871" height="488" alt="image" src="https://github.com/user-attachments/assets/d89b19ea-ea54-4578-b73e-7e5690ba6895" />
+      <img width="871" height="488" alt="image" src="https://github.com/user-attachments/assets/d89b19ea-ea54-4578-b73e-7e5690ba6895" />
 12. [OB2Muster]() - Power BI NECCPAC Muster Report
-    - <img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/1cf698d0-e670-4fc8-a17d-d6f21e757b3c" />
+      <img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/1cf698d0-e670-4fc8-a17d-d6f21e757b3c" />
     - Power BI DAX
       * DAX
       * Power Query
@@ -38,8 +38,8 @@
     - UDF
 15. [DocLib App Patent]() - NIWCPAC Document Library Browser for Legal Department
     - Architected a Power Apps-based Flat File System (FFS) for SharePoint Online with 150K+ documents, utilizing Managed Metadata, Term Store taxonomy, and custom search/filter logic to eliminate deep folder dependencies and enhance scalability, governance, and user navigation.
-    - <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/79eb4b0b-4b89-4492-9e13-edb01c04189d" />
-    - <img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/e98c51a3-1bba-4534-9497-46de20dc3ff4" />
+      <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/79eb4b0b-4b89-4492-9e13-edb01c04189d" />
+      <img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/e98c51a3-1bba-4534-9497-46de20dc3ff4" />
     - Power Apps
       * Collections
       * Graph API
@@ -68,7 +68,7 @@
       * Power Query
       * Measures
       * Data Modeling
-    - <img width="873" height="492" alt="image" src="https://github.com/user-attachments/assets/68334301-7b25-4cff-abce-b9b954063f80" />
+      <img width="873" height="492" alt="image" src="https://github.com/user-attachments/assets/68334301-7b25-4cff-abce-b9b954063f80" />
 
 
 
