@@ -40,6 +40,8 @@
       * Data Modeling
 14. [RDT&E Computer Store]() - NIWCPAC Computer Store
     - Power Apps
+      * PowerFx
+      * User Defined Function
     - Power BI
     - Reusable Components
     - Collections
