@@ -22,6 +22,8 @@
       * Measures
       * Data Modeling
 12. [OB2Muster]() - Power BI NECCPAC Muster Report
+    - <img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/1cf698d0-e670-4fc8-a17d-d6f21e757b3c" />
+
     - Power BI DAX
       * DAX
       * Power Query
