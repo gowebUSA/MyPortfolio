@@ -56,12 +56,14 @@
 16. [DocLib App FFS]() - NIWCPAC Document Library Flat File System (FFS)
     - Power Apps
       * PowerBI.ExecuteDataQuery
+      * Bypasses delegation issues
     - Power BI Desktop
       * DAX
       * Power Query
       * Measures
       * Data Modeling
     - Power Automate
+      <img width="718" height="405" alt="image" src="https://github.com/user-attachments/assets/67f1ffd3-551e-412e-bb3c-5a031cb475bb" />
 17. [DocLib Patent]() - NIWCPAC Document Library Power BI Dashboard
     - Power BI
       * DAX
