@@ -28,7 +28,7 @@
       * Data Modeling
       <img width="868" height="487" alt="image" src="https://github.com/user-attachments/assets/b2a59403-3dba-4e0c-81dc-efb9ef763cec" />
 13. [OB2Muster]() - Power BI NECCPAC Muster Report
-      <img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/1cf698d0-e670-4fc8-a17d-d6f21e757b3c" />
+      <img width="1283" height="727" alt="image" src="https://github.com/user-attachments/assets/c83511a0-34d1-4f6d-9932-77216a98e3d4" />
     - Power BI DAX
       * DAX
       * Power Query
