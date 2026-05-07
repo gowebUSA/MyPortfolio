@@ -13,6 +13,10 @@
     - Executed an enterprise migration from SharePoint 2010 On-Premises to the DotNetNuke (DNN) platform, encompassing thousands of news articles, organizational and personnel profile pages, and ensuring compliance with Section 508 accessibility standards.
     - [SNA 2022](https://www.surfpac.navy.mil/sna-2022/) - a simple outline that is ADA friendly, uses Fontawesome icons, class="list-group", and bootstrap.
     - [Ships](https://www.surfpac.navy.mil/Ships/) - an image using HTML image mapping
+    - Built and customized SURFPAC web pages using HTML, CSS, JavaScript, Bootstrap, and GIMP image mapping to improve responsiveness, navigation, and visual presentation.
+      <img width="1181" height="514" alt="image" src="https://github.com/user-attachments/assets/dba79591-c746-46ea-8412-f2b25d53cafc" />
+      <img width="1226" height="553" alt="image" src="https://github.com/user-attachments/assets/ee63dfdd-988c-4f78-b90e-31382adb714b" />
+      <img width="1213" height="587" alt="image" src="https://github.com/user-attachments/assets/19470857-22a0-461c-8bd8-5c63f68ae8e8" />
 8. [2019 SharePoint Navy Portal]() - Old portal. Migrated to FlankSpeed using ShareGate + Azure Virtual Desktop
 9. [FlankSpeed SharePoint]() - the Navy version of SharePoint Online M365
 10. [EXSUM]() - NECCPAC Executive Summary Report
