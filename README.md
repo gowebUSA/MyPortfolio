@@ -56,7 +56,12 @@
       * Measures
       * Data Modeling
     - Power Automate
-      * 
+17. []() - NIWCPA Document Library Power BI Dashboard
+    - Power BI
+      * DAX
+      * Power Query
+      * Measures
+      * Data Modeling
 
 
 
