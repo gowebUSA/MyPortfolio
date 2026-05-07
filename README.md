@@ -46,7 +46,7 @@
     - UDF
 15. [DocLib App Patent]() - NIWCPAC Document Library Browser for Legal Department
     - Architected a Power Apps-based Flat File System (FFS) for SharePoint Online with 150K+ documents, utilizing Managed Metadata, Term Store taxonomy, and custom search/filter logic to eliminate deep folder dependencies and enhance scalability, governance, and user navigation.
-      <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/79eb4b0b-4b89-4492-9e13-edb01c04189d" />
+      <img width="1186" height="664" alt="image" src="https://github.com/user-attachments/assets/f3e763a3-c7d5-4f04-a6e4-a8513eb1e467" />
       <img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/e98c51a3-1bba-4534-9497-46de20dc3ff4" />
     - Power Apps
       * Collections
