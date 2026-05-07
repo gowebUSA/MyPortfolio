@@ -78,7 +78,8 @@
       * Power Query
       * Measures
       * Data Modeling
-      <img width="873" height="492" alt="image" src="https://github.com/user-attachments/assets/68334301-7b25-4cff-abce-b9b954063f80" />
+      <img width="1178" height="666" alt="image" src="https://github.com/user-attachments/assets/f93a6905-7554-4494-8717-0faa6e59ed4c" />
+
 
 
 
