@@ -15,14 +15,14 @@
     - [Ships](https://www.surfpac.navy.mil/Ships/) - an image using HTML image mapping
 8. [2019 SharePoint Navy Portal]() - Old portal. Migrated to FlankSpeed using ShareGate + Azure Virtual Desktop
 9. [FlankSpeed SharePoint]() - the Navy version of SharePoint Online M365
-10. [OKR]() - Power BI NECCPAC OKR for Commander's Dashboard
+10. [OKR]() - Power BI NECCPAC OKR for Commander's Readiness Report Dashboard
     - Heavy use of JSON on SharePoint List
     - Power BI DAX
       * DAX
       * Power Query
       * Measures
       * Data Modeling
-      <img width="871" height="488" alt="image" src="https://github.com/user-attachments/assets/d89b19ea-ea54-4578-b73e-7e5690ba6895" />
+      <img width="868" height="487" alt="image" src="https://github.com/user-attachments/assets/b2a59403-3dba-4e0c-81dc-efb9ef763cec" />
 12. [OB2Muster]() - Power BI NECCPAC Muster Report
       <img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/1cf698d0-e670-4fc8-a17d-d6f21e757b3c" />
     - Power BI DAX
