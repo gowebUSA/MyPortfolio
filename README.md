@@ -71,7 +71,7 @@
     - Power Apps
       * PowerBI.ExecuteDataQuery
       * Bypasses delegation issues
-    - Power BI Desktop
+    - Power BI is used as the data source to work around Power Apps delegation limits when querying large SharePoint document libraries. Power BI processes the full dataset and returns filtered results to Power Apps, improving search performance while preserving the existing folder structure.
       * DAX
       * Power Query
       * Measures
@@ -79,7 +79,7 @@
     - Power Automate
       <img width="718" height="405" alt="image" src="https://github.com/user-attachments/assets/67f1ffd3-551e-412e-bb3c-5a031cb475bb" />
 17. [DocLib Patent]() - NIWCPAC Document Library Power BI Dashboard
-    - Power BI is used as the data source to work around Power Apps delegation limits when querying large SharePoint document libraries. Power BI processes the full dataset and returns filtered results to Power Apps, improving search performance while preserving the existing folder structure.
+    - Power BI
       * DAX
       * Power Query
       * Measures
