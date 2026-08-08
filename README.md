@@ -8,7 +8,7 @@
 3. [Managed Websites](https://github.com/gowebUSA/MyPortfolio/tree/master/websites)
 4. [Program Management](https://github.com/gowebUSA/MyPortfolio/tree/master/project/program-management)
    * Digital W-MAF
-5. [Public Navy Website](https://www.public.navy.mil) - 2013 Publishing SharePoint
+5. [Public Navy Website](https://www.public.navy.mil) - 2010 Publishing SharePoint
 6. [SURFPAC Navy Website](https://www.surfpac.navy.mil) - Through AFPIMS using Dot Net Nuke (DNN) CMS
     - Executed an enterprise migration from SharePoint 2010 On-Premises to the DotNetNuke (DNN) platform, encompassing thousands of news articles, organizational and personnel profile pages, and ensuring compliance with Section 508 accessibility standards.
     - [SNA 2022](https://www.surfpac.navy.mil/sna-2022/) - a simple outline that is ADA friendly, uses Fontawesome icons, class="list-group", and bootstrap.
